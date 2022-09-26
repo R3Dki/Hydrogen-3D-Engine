@@ -1,3 +1,2 @@
-# Hydrogen-3D-Engine
-A 3D Engine written in C++
-Porco dio
+# **Hydrogen** Engine
+Simple And Lightweight Graphical Engine.

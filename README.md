@@ -1,2 +1,2 @@
-# **Hydrogen** Engine ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+# **Hydrogen** Engine
 Simple And Lightweight Graphical Engine.

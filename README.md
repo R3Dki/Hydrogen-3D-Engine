@@ -1,2 +1,6 @@
 # **Hydrogen** Engine
-Simple And Lightweight Graphical Engine.
+
+> Light.
+> Simple to use.
+> Fast.
+> Optimized.
